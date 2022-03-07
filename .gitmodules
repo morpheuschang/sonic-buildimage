@@ -103,3 +103,21 @@
 [submodule "src/thrift_0_14_1/thrift"]
 	path = src/thrift_0_14_1/thrift
 	url = https://github.com/apache/thrift.git
+[submodule "dockers/docker-hcds-agent"]
+	path = dockers/docker-hcds-agent
+	url = https://10.57.240.89/jasper/haiscale.git
+[submodule "dockers/docker-consul"]
+	path = dockers/docker-consul
+	url = https://10.57.240.89/jasper/docker-consul.git
+[submodule "dockers/docker_zabbix_agent"]
+	path = dockers/docker_zabbix_agent
+	url = https://10.57.240.89/shawn/docker_zabbix_agent
+[submodule "dockers/docker_irene_db"]
+	path = dockers/docker_irene_db
+	url = https://10.57.240.89/shawn/docker_irene_db
+[submodule "dockers/docker_irene_pool"]
+	path = dockers/docker_irene_pool
+	url = https://10.57.240.89/shawn/docker_irene_pool
+[submodule "dockers/docker-foxocrest"]
+	path = dockers/docker-foxocrest
+	url = http://192.168.28.166/sdhpc/foxocrest.git
